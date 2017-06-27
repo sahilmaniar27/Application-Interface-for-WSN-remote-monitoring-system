@@ -1,0 +1,4 @@
+Reference  Device           Description
+---------- ---------------- ---------------------------------------------
+MXVPM85S   /dev/ttyUSB0     MEMSIC MEMSIC Telos Rev.B
+MXVOWZMD   /dev/ttyUSB1     MEMSIC MEMSIC Telos Rev.B
